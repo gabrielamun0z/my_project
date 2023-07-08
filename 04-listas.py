@@ -10,7 +10,7 @@
 lista = list() #forma 1
 lista = [] #forma 2
 
-lista = [35, 24, 62, 52, 30, 30, 17]
+lista = [35, 24, 62, 52, 30, 30, 15]
 print(type(lista))
 print("Edades: ", lista)
 
